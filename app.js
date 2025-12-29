@@ -18,8 +18,8 @@ function showAlert5() {
     console.log(alert);
 }
 
-function onshowAlert6() {
-    alert("I used the  t in My my new Project\nand also I am working on it..");
+function showAlert6() {
+    alert("I used this task in My new Project\nand also I am working on it..");
     console.log(alert);
 }
 
